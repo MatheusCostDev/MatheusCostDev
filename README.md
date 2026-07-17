@@ -1,4 +1,4 @@
-# Hello there! I'm Matheus Emanuel! 👋
+# Hey there! I'm Matheus Emanuel! 👋
 ## Indie game developer | VFX artist in Unreal Engine with Niagara system
 ### Doing my own mobile game "UPRA"!
 
